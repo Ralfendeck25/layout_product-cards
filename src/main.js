@@ -1,7 +1,5 @@
 'use strict';
 
-'use strict';
-
 document.addEventListener('DOMContentLoaded', () => {
   const starsBlocks = document.querySelectorAll('.stars');
 
